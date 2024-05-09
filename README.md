@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gurocha19
-- 👀 I’m interested in learning with the others
+- 👀 I’m interested to know other people
 - 🌱 I’m currently learning python
 - 📫 How to reach me : gustavo.t.rocha@edu.ufes.br
 
